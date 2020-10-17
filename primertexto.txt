@@ -1,0 +1,15 @@
+hola este es el primer archivo de la practica del
+
+curso de git
+
+nueva linea
+
+
+
+tendremos exito
+
+
+...............
+
+
+nuevas pruebas
